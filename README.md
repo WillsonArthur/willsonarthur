@@ -1,7 +1,9 @@
-## Hi there 👋
-
+## Aló, meu nome é **Arthur**, recentemente descobri que minha humilde pagina do GitHub pode servir como um Portifoliio, o que é uma grande conveniencia.
+ Aqui está localizado tanto meus prohetos pessoais como também as aplicações e projetos que eu desenvolvi na minha faculdade de ADS (Analise e Desenvolvimento de Sistemas). 
+# 
+ 
 <!--
-**WillsonArthur/willsonarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

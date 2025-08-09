@@ -1,6 +1,6 @@
  #
  Olá, meu nome é *Arthur Campos*, 
-   finalmente descobri que minha humilde página do GitHub pode servir como um Portifólio, o que é uma grande convêniencia.
+  
  Aqui está localizado tanto meus projetos pessoais como também as aplicações e projetos que eu desenvolvi na minha faculdade de ADS (Analise e Desenvolvimento de Sistemas). \(´-´)
  #
  

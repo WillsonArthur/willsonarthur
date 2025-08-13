@@ -4,7 +4,7 @@
 <!--
 Obvio que preciso mudar essa parte, meh, colocar "emphassis", o "header" tá baixo demais ainda.
 -->
-Atualmente estou terminando minha faculdade de ADS (Análise e Desenvolvimento de Sistemas), e durante meu curso aprendi que Java não gosta de mim, UML parece os pensamentos de uma mente esquizofrénica postos num quadro. Assembly me dá pesadelos
+Atualmente estou terminando minha faculdade de ADS (Análise e Desenvolvimento de Sistemas), os caminhos que decidi seguir durante meu curso me ensinou a usar varias ferramentas, como o SQLworkbench, a desenvolver diagramas UML, com foco nos estruturais, lógica de programação.
 ### Habilidades
 <!--
 Preciso colocar em lista habilidades...

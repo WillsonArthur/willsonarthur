@@ -10,7 +10,6 @@ Atualmente estou terminando minha faculdade de ADS (Análise e Desenvolvimento d
 Preciso colocar em lista habilidades...
 Uma lista ordenada ou compacta...
 -->
-
 - [x] Fazer um Café Amargo;
 - [x] Programar em HTML, CSS, JS (WEB);
 - [x] Desenvolver Diagrama;
@@ -21,8 +20,9 @@ Uma lista ordenada ou compacta...
 <!--
 um caminho de jpg... "não vai dar" certo, preciso colocar algo, mas não lembro..
 -->
-
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python

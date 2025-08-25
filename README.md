@@ -1,20 +1,24 @@
 
-# **Arthur Willson Dias**    
-##### *"Garoto de Programa, Web Desing, Estudante de ADS"*
+# **Arthur Dias** 
 <!--
 Obvio que preciso mudar essa parte, meh, colocar "emphassis", o "header" tá baixo demais ainda.
 -->
-Atualmente estou terminando minha faculdade de ADS (Análise e Desenvolvimento de Sistemas), os caminhos que decidi seguir durante meu curso me ensinou a usar varias ferramentas, como o SQLworkbench, a desenvolver diagramas UML, com foco nos estruturais, lógica de programação.
+    Meu */"README.md"/*, é nada mais nada menos que um resumo dos meus conecimentos e um resumo de Arthur, como um proficional na aréa de Tecnologia.
+    Aqui você pode encontrar desde meus projetos da faculdade como taambém meus projetos pessoais, o que eu fico fazendo no meu tempo livre :P
+
+Atualmente cursando meu 4° semestre em ADS (Análise e Desenvolvimento de Sistemas).
+Meu objetivo atual é aumentar meus conhecimentos na área de Tecnologia da Informação e desenvolver minhas habilidades na área de desenvolvimento WEB.
+
 ### Habilidades
 <!--
 Preciso colocar em lista habilidades...
 Uma lista ordenada ou compacta...
 -->
-- [x] Fazer um Café Amargo;
-- [x] Programar em HTML, CSS, JS (WEB);
-- [x] Desenvolver Diagrama;
-- [ ] Emprestar Dinheiro;
-- [x] Explicar a Lore de Warframe;
+- Scrum;
+- XP (Extreme Programming);
+- Office Package;
+
+Atualmente estou desenvolvendo varios projetos. Você pode acompanha-los aqui mesmo em meu GitHub, e se quiser, pode também me ajudar, o que seria /*incrivel!/*
 
 ### Linguagens
 <!--

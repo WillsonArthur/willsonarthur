@@ -3,7 +3,7 @@
 <!--
 Obvio que preciso mudar essa parte, meh, colocar "emphassis", o "header" tá baixo demais ainda.
 -->
-Meu */"README.md"/*, é nada mais nada menos que um resumo dos meus conecimentos e um resumo de Arthur, como um proficional na aréa de Tecnologia.
+Meu *"README.md"*, é nada mais nada menos que um resumo dos meus conecimentos e um resumo de Arthur, como um proficional na aréa de Tecnologia.
 Aqui você pode encontrar desde meus projetos da faculdade como taambém meus projetos pessoais, o que eu fico fazendo no meu tempo livre :P <br>
 
 Atualmente cursando meu 4° semestre em ADS (Análise e Desenvolvimento de Sistemas).

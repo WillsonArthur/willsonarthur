@@ -1,12 +1,12 @@
-
 # **Arthur Dias** 
 <!--
 Obvio que preciso mudar essa parte, meh, colocar "emphassis", o "header" tá baixo demais ainda.
 -->
-Meu *"README.md"*, é nada mais nada menos que um resumo dos meus conhecimentos gerais e um resumo de Arthur, como um proficional na aréa de Tecnologia.
-Aqui você pode encontrar desde meus projetos da faculdade como taambém meus projetos pessoais, o que eu fico fazendo no meu tempo livre :P <br>
+Meu *"README.md"*, é nada mais nada menos que um resumo dos meus conecimentos e um resumo de Arthur, como um profissional na aréa de Tecnologia. <('-')/
+<br>
+Aqui você pode encontrar desde meus projetos da faculdade como também meus projetos pessoais, o que eu fico fazendo no meu tempo livre. <(´-´)>
 
-Atualmente cursando meu 4° semestre em ADS (Análise e Desenvolvimento de Sistemas).
+Atualmente cursando meu 4° semestre em ADS **(Análise e Desenvolvimento de Sistemas)**.
 Meu objetivo atual é aumentar meus conhecimentos na área de Tecnologia da Informação e desenvolver minhas habilidades na área de desenvolvimento WEB.
 
 ### Habilidades

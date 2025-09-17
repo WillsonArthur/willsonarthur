@@ -19,9 +19,9 @@ Atualmente estou finalizando meu curso de ADS(*Análise e Desenvolvimento de Sis
 - Habilidades
     - [X] Office Package(Excel/Word/PowerPoint/Teams);
     - [x] UML;
-
 <br>
 Possuo também certificações, confira algumas:
+
 - Cisco(NetAcademy)
     - English for It 1
     - English for It 2

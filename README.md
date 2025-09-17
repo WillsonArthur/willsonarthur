@@ -1,8 +1,8 @@
 E ai? Parce que você que saber alguma coisa sobre mim, nê?
 Bom, aqui estão algumas coisa :)
 <br>
-### Curiosidades sobre minha Formações
-Atualmente estou finalizando meu curso de ADS(*Análise e Desenvolvimento de Sistemas*), onde eu aprendei e consegui um nivel de dominio emalgumas coisas como:
+### Minhas Formações
+Atualmente estou finalizando meu curso de ADS(*Análise e Desenvolvimento de Sistemas*). Durante o curso, adquiri conhecimentos sólidos e desenvolvi competências em diversas áreas, como:
 - Desenvolvimento WEB 
     - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15"/> JavaScript;
     - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15"/> HTML
@@ -17,11 +17,11 @@ Atualmente estou finalizando meu curso de ADS(*Análise e Desenvolvimento de Sis
     - [x] Scrum;
     - [x] XP (Extreme Programming);
 - Habilidades
-    - Office Package (Excel/Word/PowerPoint/Teams);
-    - Canva
+    - [X]Office Package(Excel/Word/PowerPoint/Teams);
+    - [x]UML;
 
 <br>
-Possuo também varias certificações, algumas delas são:
+Possuo também certificações, confira alumas:
 
 - Cisco(NetAcademy)
     - English for It 1

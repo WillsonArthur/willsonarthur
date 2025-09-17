@@ -21,7 +21,7 @@ Atualmente estou finalizando meu curso de ADS(*Análise e Desenvolvimento de Sis
     - [x] UML;
 <br>
 Possuo também certificações, confira algumas:
-
+### Minhas Certificações
 - Cisco(NetAcademy)
     - English for It 1
     - English for It 2
